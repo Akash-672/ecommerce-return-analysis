@@ -131,7 +131,8 @@ The dashboard allows users to filter the analysis by:
 
 ### Dashboard Preview
 
-https://github.com/Akash-672/ecommerce-return-analysis/blob/main/screenshot.png
+<img width="1169" height="656" alt="screenshot" src="https://github.com/user-attachments/assets/b68e51eb-54e6-4ac2-a1a1-11c12b678a47" />
+
 
 ---
 
