@@ -168,7 +168,6 @@ The dashboard allows users to filter the analysis by:
 
 ## 10. Tools Used
 
-* **Excel** — Data inspection
 * **MySQL** — SQL for cleaning, analysis and business questions
 * **Power BI** — Interactive dashboard and data visualization
 
