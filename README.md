@@ -129,9 +129,11 @@ The dashboard allows users to filter the analysis by:
 * Product Category
 * Payment Method
 
-### Dashboard Preview
+### Dashboard's Preview
 
 <img width="1169" height="656" alt="screenshot" src="https://github.com/user-attachments/assets/b68e51eb-54e6-4ac2-a1a1-11c12b678a47" />
+
+<img width="1173" height="653" alt="screenshot 2" src="https://github.com/user-attachments/assets/e5494b4a-2ca5-4ad3-a9bb-b435fb17cb7b" />
 
 
 ---
